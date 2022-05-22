@@ -1,0 +1,17 @@
+E:\projetos\prime\ProjectBank\bankApp\bin\Debug\net6.0\bankApp.exe
+E:\projetos\prime\ProjectBank\bankApp\bin\Debug\net6.0\bankApp.deps.json
+E:\projetos\prime\ProjectBank\bankApp\bin\Debug\net6.0\bankApp.runtimeconfig.json
+E:\projetos\prime\ProjectBank\bankApp\bin\Debug\net6.0\bankApp.dll
+E:\projetos\prime\ProjectBank\bankApp\bin\Debug\net6.0\bankApp.pdb
+E:\projetos\prime\ProjectBank\bankApp\obj\Debug\net6.0\bankApp.csproj.AssemblyReference.cache
+E:\projetos\prime\ProjectBank\bankApp\obj\Debug\net6.0\bankApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\projetos\prime\ProjectBank\bankApp\obj\Debug\net6.0\bankApp.AssemblyInfoInputs.cache
+E:\projetos\prime\ProjectBank\bankApp\obj\Debug\net6.0\bankApp.AssemblyInfo.cs
+E:\projetos\prime\ProjectBank\bankApp\obj\Debug\net6.0\bankApp.csproj.CoreCompileInputs.cache
+E:\projetos\prime\ProjectBank\bankApp\obj\Debug\net6.0\bankApp.dll
+E:\projetos\prime\ProjectBank\bankApp\obj\Debug\net6.0\refint\bankApp.dll
+E:\projetos\prime\ProjectBank\bankApp\obj\Debug\net6.0\bankApp.pdb
+E:\projetos\prime\ProjectBank\bankApp\obj\Debug\net6.0\bankApp.genruntimeconfig.cache
+E:\projetos\prime\ProjectBank\bankApp\obj\Debug\net6.0\ref\bankApp.dll
+E:\projetos\prime\ProjectBank\bankApp\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\projetos\prime\ProjectBank\bankApp\obj\Debug\net6.0\bankApp.csproj.CopyComplete
