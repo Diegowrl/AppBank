@@ -1,6 +1,6 @@
-﻿using bankApp.Domain.Entities;
-using bankApp.Map;
-using bankApp.Model;
+﻿using bankApp.Aplication.Map;
+using bankApp.Aplication.Model;
+using bankApp.Domain.Entities;
 using Newtonsoft.Json;
 
 Initial();

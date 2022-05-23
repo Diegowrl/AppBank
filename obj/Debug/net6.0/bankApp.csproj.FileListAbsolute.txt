@@ -34,3 +34,5 @@ E:\projetos\prime\ProjectBank\AppBank\obj\Debug\net6.0\refint\bankApp.dll
 E:\projetos\prime\ProjectBank\AppBank\obj\Debug\net6.0\bankApp.pdb
 E:\projetos\prime\ProjectBank\AppBank\obj\Debug\net6.0\bankApp.genruntimeconfig.cache
 E:\projetos\prime\ProjectBank\AppBank\obj\Debug\net6.0\ref\bankApp.dll
+E:\projetos\prime\ProjectBank\AppBank\bin\Debug\net6.0\bankApp.Aplication.dll
+E:\projetos\prime\ProjectBank\AppBank\bin\Debug\net6.0\bankApp.Aplication.pdb

@@ -11,6 +11,20 @@
           "lib/netstandard2.0/Newtonsoft.Json.dll": {}
         }
       },
+      "bankApp.Aplication/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Newtonsoft.Json": "13.0.1",
+          "bankApp.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/bankApp.Aplication.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/bankApp.Aplication.dll": {}
+        }
+      },
       "bankApp.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -51,6 +65,11 @@
         "packageIcon.png"
       ]
     },
+    "bankApp.Aplication/1.0.0": {
+      "type": "project",
+      "path": "../bankApp.Aplication/bankApp.Aplication.csproj",
+      "msbuildProject": "../bankApp.Aplication/bankApp.Aplication.csproj"
+    },
     "bankApp.Domain/1.0.0": {
       "type": "project",
       "path": "../bankApp.Domain/bankApp.Domain.csproj",
@@ -60,6 +79,7 @@
   "projectFileDependencyGroups": {
     "net6.0": [
       "Newtonsoft.Json >= 13.0.1",
+      "bankApp.Aplication >= 1.0.0",
       "bankApp.Domain >= 1.0.0"
     ]
   },
@@ -99,6 +119,9 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
+            "E:\\projetos\\prime\\ProjectBank\\bankApp.Aplication\\bankApp.Aplication.csproj": {
+              "projectPath": "E:\\projetos\\prime\\ProjectBank\\bankApp.Aplication\\bankApp.Aplication.csproj"
+            },
             "E:\\projetos\\prime\\ProjectBank\\bankApp.Domain\\bankApp.Domain.csproj": {
               "projectPath": "E:\\projetos\\prime\\ProjectBank\\bankApp.Domain\\bankApp.Domain.csproj"
             }

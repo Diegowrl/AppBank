@@ -5,9 +5,11 @@ VisualStudioVersion = 17.1.32407.343
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "bankApp", "bankApp.csproj", "{77BD65DB-82F2-4F59-B33A-2D1B31C76083}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bankApp.Domain", "..\bankApp.Domain\bankApp.Domain.csproj", "{ED67A639-A301-477F-84E3-73DBF41C4D5C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "bankApp.Domain", "..\bankApp.Domain\bankApp.Domain.csproj", "{ED67A639-A301-477F-84E3-73DBF41C4D5C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bankApp.Test", "..\bankApp.Test\bankApp.Test.csproj", "{DD4BF9BC-0BB3-4B1E-9B71-C443C501919D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "bankApp.Test", "..\bankApp.Test\bankApp.Test.csproj", "{DD4BF9BC-0BB3-4B1E-9B71-C443C501919D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bankApp.Aplication", "..\bankApp.Aplication\bankApp.Aplication.csproj", "{5679ADA6-C3DB-469E-B580-DC3564A40284}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{DD4BF9BC-0BB3-4B1E-9B71-C443C501919D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DD4BF9BC-0BB3-4B1E-9B71-C443C501919D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DD4BF9BC-0BB3-4B1E-9B71-C443C501919D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5679ADA6-C3DB-469E-B580-DC3564A40284}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5679ADA6-C3DB-469E-B580-DC3564A40284}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5679ADA6-C3DB-469E-B580-DC3564A40284}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5679ADA6-C3DB-469E-B580-DC3564A40284}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
