@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MMaX4dfYiDPb5uQsgfY+UT6ZYMch9rVF/ODf680Q26OkwgfI8a2lr9OCu97O0OZvTAmmb0uql8XtRnZJN+42og==",
+  "dgSpecHash": "cNkfV3g0vkXgVpS4EWTdcRUYL9Cp2aCIwjsHTw1Dj1Cp9FEurNdynWq2Yd5WpViXy2adPy18LYjiZs3EG0Bq8A==",
   "success": true,
-  "projectFilePath": "E:\\projetos\\prime\\ProjectBank\\bankApp\\bankApp.csproj",
+  "projectFilePath": "E:\\projetos\\prime\\ProjectBank\\AppBank\\bankApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\maquina2.0\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
   ],
