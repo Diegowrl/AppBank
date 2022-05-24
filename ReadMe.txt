@@ -2,6 +2,8 @@ Boa tarde,
 
 Decidir deixar a parte das chamadas dos metodos dentro da propria Operação, acho que e responsabilidade da classe resolver o calculo e mostrar apenas o resultado
 Outra possibilidade era fazer tambem todas as chamadas dos metodos fora da Operação dentro do Program, e mais de mais facil leitura porem expoe tudo que e feito.
+Separei a responsabilidade das iteraçoes em um command, intão se o App for evoluido e somente necessario passar uma lista de transações
+Assim a responsabilidade do Program.cs fica somente com a leitura do Json.
 
 As bibliotecas usadas foram de conversão de json tanto para serializar e desserializar, tambem a parte de DataAnotations encima das propriedades na camada de Aplication.
 

@@ -1,7 +1,5 @@
 ﻿using bankApp.Aplication.command;
-using bankApp.Aplication.Map;
 using bankApp.Aplication.Model;
-using bankApp.Domain.Entities;
 using Newtonsoft.Json;
 
 Start();
@@ -15,8 +13,8 @@ static async void Start()
 
     var Taxes = new List<decimal>();
 
-    var command = new OperatorCommand { };
-    
+    var command = new OperatorCommand{ };
+
     var operations = await command.Send(listTransactionsModel);
 
     foreach (var operation in operations)
